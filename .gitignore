@@ -4,3 +4,5 @@ CMakeCache.txt
 config.h
 *.a
 Makefile
+.DS_Store
+app
